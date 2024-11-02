@@ -4,6 +4,10 @@
 
 I'm a passionate PHP developer with extensive experience in building applications using the **CodeIgniter** and **Laravel** frameworks. I thrive on creating efficient, scalable, and maintainable code to deliver high-quality solutions.
 
+## 📫 How to reach me 
+
+- **ryanroysantos@gmail.com**
+     
 ## 🛠️ Technologies & Tools
 
 - **Languages**:  
@@ -33,6 +37,7 @@ I'm always eager to learn and improve my skills. Currently, I am exploring more 
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-santos-5b747917a/) 
+- [LinkedIn](https://www.linkedin.com/in/ryan-santos-5b747917a/)
+- [Portfolio](https://ryanroydev.github.io/)
 
 Thanks for visiting my profile! 🚀
