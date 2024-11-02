@@ -33,6 +33,6 @@ I'm always eager to learn and improve my skills. Currently, I am exploring more 
 
 Feel free to connect with me on:
 
-- [LinkedIn]([(https://www.linkedin.com/in/ryan-santos-5b747917a/]) 
+- [LinkedIn](https://www.linkedin.com/in/ryan-santos-5b747917a/) 
 
 Thanks for visiting my profile! 🚀
